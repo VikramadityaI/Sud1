@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VikramadityaI
 - 👀 I’m interested in embedded systems
 - 🌱 I’m currently learning raspberry pi and networking
-- 💞️ I’m looking to collaborate on ...
+- 💞️ this is my ist branch
 - 📫 How to reach me ...
 
 <!---
